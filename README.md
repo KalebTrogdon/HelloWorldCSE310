@@ -1,23 +1,23 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+{I am writing this program as I search and strive to improve my coding and familiarity with GitHub. I hope to impart some mistakes and wins that I make as I continue to learn my code.}
 
-{Provide a description of your software}
+{Simple Hello World program in python}
 
-{Describe your purpose for creating this software.}
+{This shows where i came from on this day to my futur self}
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+{Here is a link to my video explaining what my thinking was on this project}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/txIOX2W8Yhg)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{The tools I used was listening in class and W3 schools. }
 
-{Describe the programming language that you used}
+{Python language was used}
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [W3 Schools](https://www.w3schools.com/python/default.asp)
 * [Web Site Name](http://url.link.goes.here)
